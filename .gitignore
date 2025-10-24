@@ -1,0 +1,5 @@
+# Ignore system/application data that Git should never track
+AppData/
+
+# Ignore files related to VS Code extensions (which caused the warnings)
+.vscode/extensions/
